@@ -81,7 +81,7 @@ Route table associations
 
 Secure SSH access control
 
-🧪 Testing & Validation
+ Testing & Validation
 
 Verified internet access from public instance
 
